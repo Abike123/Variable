@@ -1,0 +1,7 @@
+# Initial declaration
+name = "Grace"
+print("Initial value of name:", name)
+
+# Redeclaration
+name = "Grace"
+print("Value of name after redeclaration:", name)
